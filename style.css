@@ -8,8 +8,8 @@ body {
   font-size: 32px;
 }
 
-.mb-20 {
-  margin-bottom: 20px;
+.mb-30 {
+  margin-bottom: 30px;
 }
 
 .container {
@@ -33,7 +33,7 @@ body {
 }
 
 .startButton {
-  background: #000;
+  background: #f00;
   color: #fff;
   padding: 4px 60px;
   border: none;
